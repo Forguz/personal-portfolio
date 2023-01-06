@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/personal-portfolio/static/js/main.2128d64c.js",
+    "static/media/checkinz.webp": "/personal-portfolio/static/media/checkinz.e645422b2dec6da2b6e0.webp",
+    "static/media/beehive.webp": "/personal-portfolio/static/media/beehive.0a622d34283399c65e9b.webp",
+    "static/media/matchmode.webp": "/personal-portfolio/static/media/matchmode.bb6971c3aef3f3ccf739.webp",
+    "static/media/bkco.webp": "/personal-portfolio/static/media/bkco.5532d927fcee6b3a4891.webp",
+    "static/media/eyewish.webp": "/personal-portfolio/static/media/eyewish.6d38b496b96c09a38d87.webp",
+    "static/media/place.webp": "/personal-portfolio/static/media/place.5051f3c6730b2ef413fa.webp",
+    "static/media/brivity.webp": "/personal-portfolio/static/media/brivity.dc0cd31fde5b991a2c52.webp",
+    "static/media/mydesk.webp": "/personal-portfolio/static/media/mydesk.355fda118554bea65c86.webp",
+    "static/media/properorder.webp": "/personal-portfolio/static/media/properorder.e17a26942b9bbc6bc55c.webp",
+    "static/media/patience.webp": "/personal-portfolio/static/media/patience.d95f5d87a65b87a29bb9.webp",
+    "index.html": "/personal-portfolio/index.html",
+    "static/media/logo.svg": "/personal-portfolio/static/media/logo.0ca95679cf7c7e523ffdfa10f5292297.svg",
+    "main.2128d64c.js.map": "/personal-portfolio/static/js/main.2128d64c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2128d64c.js"
+  ]
+}
