@@ -1,0 +1,102 @@
+[
+  {
+    "image": "eyewish",
+    "name": "EyeWish",
+    "description": "Eyewish is a wish list and gift registry application.",
+    "links": {
+      "google": "",
+      "apple": "https://apps.apple.com/us/app/eyewish/id1441588959",
+      "website": ""
+    }
+  },
+  {
+    "image": "patience",
+    "name": "Patience Finance",
+    "description": "Practice investing alongside your friends. Share and find actionable trade ideas. Receive notifications when its time to trade.",
+    "links": {
+      "google": "",
+      "apple": "https://apps.apple.com/us/app/patience-finance/id1621623971",
+      "website": ""
+    }
+  },
+  {
+    "image": "beehive",
+    "name": "Beehive",
+    "description": "Beehive is an educational app for children that conveys valuable information in the form of articles, infographics, and videos.",
+    "links": {
+      "apple": "https://apps.apple.com/us/app/childrens-beehive/id1601711518",
+      "google": "https://play.google.com/store/apps/details?id=com.childrens.beehive",
+      "website": "https://app.childrens-beehive.com/"
+    }
+  },
+  {
+    "image": "properorder",
+    "name": "Proper Order",
+    "description": "Ireland’s finest food at a tap.",
+    "links": {
+      "google": "",
+      "apple": "https://apps.apple.com/ie/app/proper-order/id1611038478",
+      "website": ""
+    }
+  },
+  {
+    "image": "matchmode",
+    "name": "MatchMde",
+    "description": "Match & Meet Real People",
+    "links": {
+      "google": "https://play.google.com/store/apps/details?id=com.matchmde",
+      "apple": "https://apps.apple.com/sg/app/matchmde/id1467719153",
+      "website": ""
+    }
+  },
+  {
+    "image": "bkco",
+    "name": "BKCO Calculator",
+    "description": "We make the home buying process simple, easy, and fast, while at the same time delivering exceptional value. We believe in long term relationships and providing the support our customers need to continue helping them for life.",
+    "links": {
+      "google": "https://play.google.com/store/apps/details?id=com.bkmortgage.mortgagecalculator",
+      "apple": "https://apps.apple.com/us/app/bkco-mortgage-calculator/id1513458505",
+      "website": ""
+    }
+  },
+  {
+    "image": "brivity",
+    "name": "Brivity Calculator",
+    "description": "Home ownership has more benefits than you may realize! Understand how much positive impact home ownership can add to your life with the Brivity “Value of Homeownership” calculator.",
+    "links": {
+      "google": "https://play.google.com/store/apps/details?id=com.brivitymortgagecalc",
+      "apple": "https://apps.apple.com/us/app/brivity-mortgage-calculator/id1565622470",
+      "website": ""
+    }
+  },
+  {
+    "image": "place",
+    "name": "PLACE Calculator",
+    "description": "Place Inc. is your place to be for all things home ownership. We understand the value of owning a home and want you to know that we are able to deliver the dream of home ownership everywhere.",
+    "links": {
+      "google": "https://play.google.com/store/apps/details?id=com.placemortgage.mortgagecalc",
+      "apple": "https://apps.apple.com/us/app/place-mortgage-calculator/id1565183924",
+      "website": ""
+    }
+  },
+  {
+    "image": "mydesk",
+    "name": "MyDesk",
+    "description": "MyDesk is a user-friendly solution that makes it possible for employees to book desks, lunch, parking spots and nd coworkers. It ensures you a organized working enviroment with happy and ecient employees and modern use of the space in the company and other resources.",
+    "links": {
+      "google": "https://play.google.com/store/apps/details?id=com.mydesk",
+      "apple": "https://apps.apple.com/us/app/mydesk-app/id1530351331",
+      "website": ""
+    }
+  },
+  {
+    "image": "checkinz",
+    "name": "Check-in Z",
+    "description": "Application responsible for marking and organizing rooms and tables in coworking environments.",
+    "links": {
+      "google": "https://play.google.com/store/apps/details?id=com.project.zallpy.coworking_app",
+      "apple": "",
+      "website": ""
+    }
+  }
+]
