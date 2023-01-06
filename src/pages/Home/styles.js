@@ -15,7 +15,7 @@ export const Header = styled.header`
       line-height: 110%;
     }
 
-    @media screen and (max-width: 500px) {
+    @media screen and (max-width: 920px) {
       margin-top: 24px;
       flex-direction: column;
 
@@ -26,7 +26,9 @@ export const Header = styled.header`
         margin-bottom: 40px;
         margin-right: 0;
       }
+    }
 
+    @media screen and (max-width: 500px) {
       > p {
         font-size: 4.8rem;
         line-height: 114%;
@@ -101,10 +103,6 @@ export const IconsBox = styled(FloatingBox)`
 export const ProjectsBox = styled(FloatingBox)`
   justify-content: space-around;
   flex-wrap: wrap;
-
-  div {
-    /* margin-right: 16px; */
-  }
 `
 
 export const Section = styled.section`
