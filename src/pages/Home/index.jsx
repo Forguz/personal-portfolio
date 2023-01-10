@@ -88,7 +88,7 @@ function Home() {
         </TextBox>
       </Section>
       <Section>
-        <Title>Technologies</Title>
+        <Title>Skills</Title>
         <IconsBox>
           <div>
             <DiStackoverflow size={80} fill={"#F47B1A"} />
